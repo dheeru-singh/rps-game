@@ -1,0 +1,21 @@
+html{
+    margin: 30px;
+}
+
+.jumbotron h1, .heading-container, .card{
+    text-align: center;
+}
+.heading-container h3{
+    background-color: blue;
+    color: white;
+    display: inline-block;
+    padding: 10px;
+}
+/* Setting height for the card images*/
+/* .card img{
+    height:300px ;
+} */
+/*will hide the card group when the page load*/
+.card-group{
+    display:none; 
+}
